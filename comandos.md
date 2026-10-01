@@ -4,3 +4,4 @@ git push
 git pull
 git init
 git merge
+git log
