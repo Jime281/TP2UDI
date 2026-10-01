@@ -1,0 +1,4 @@
+Proyecto=TP2UDI
+Versión=1.0
+Herramienta=Git
+Repositorio=GitHub
