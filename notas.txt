@@ -1,4 +1,6 @@
 Trabajo Práctico N° 2 de UDI
+Carrera=Desarrollo de Software
+Práctica de Pull Request
 Carrera=Desarrollo de Software siesta
 Jimena y Emilia
 22 y 25 años
