@@ -1,7 +1,12 @@
 Trabajo Práctico N° 2 de UDI
 Carrera=Desarrollo de Software
+<<<<<<< HEAD
 Práctica de Pull Request
 Carrera=Desarrollo de Software siesta
 Jimena y Emilia
 22 y 25 años
 udi
+=======
+Práctica de Pull Requests
+Soy Jimena Duttweiler
+>>>>>>> 5c8bcd8 (git log)
